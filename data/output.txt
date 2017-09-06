@@ -1,0 +1,126 @@
+=========================
+Executive Summary Report
+=========================
+Invoice   Customer                                          Salesperson                      Subtotal        Fees       Taxes    Discount       Total
+INV001    Michael P. Green [Student]                        Sanchez, Corinne              $    703.75 $      6.75 $     41.75 $    -98.05 $    654.20
+INV002    Joseph T. Jackson [General]                       Snapp, Ralph                  $     15.00 $      0.00 $      0.90 $     -0.00 $     15.90
+INV003    Robert A. Hinds [Student]                         Tran, Hung                    $     38.23 $      6.75 $      2.20 $     -5.26 $     41.92
+INV004    Johnny R. Smith [Student]                         Romero, Clara                 $    228.00 $      6.75 $     13.68 $    -31.92 $    216.51
+INV005    Dean D. Arriola [General]                         Scheele, Lynne                $     30.85 $      0.00 $      1.79 $     -0.00 $     32.64
+=====================================================================================================================================================
+TOTALS                                                                                    $   1015.83 $     20.25 $     60.32 $   -135.23 $    961.18
+
+
+
+Individual Invoice Detail Reports
+==================================================
+Invoice INV001
+========================
+Salesperson: Sanchez, Corinne
+Customer Info:
+  Michael P. Green (zahm)
+  [Student]
+  Snapp, Ralph
+  239 Lowes Alley
+  Mercerville OH 45631 USA
+-------------------------------------------
+Code      Item                                                                      Subtotal        Tax       Total
+qyhe      SeasonPass - Labor Day Deal                                            $    680.00 $     40.80 $    720.80
+          (10 units @ $60.00/unit + $8 fee/unit)
+qsln      Large Pepsi (5 units @ $5.00/unit with 5% off)                         $     23.75 $      0.95 $     24.70
+                                                                                 ====================================
+SUB-TOTALS                                                                       $    703.75 $     41.75 $    745.50
+DISCOUNT (8% STUDENT & NO TAX)                                                                           $    -98.05
+ADDITIONAL FEE (STUDENT)                                                                                 $      6.75
+TOTAL                                                                                                    $    654.20
+
+		Thank you for your purchase!
+
+Invoice INV002
+========================
+Salesperson: Snapp, Ralph
+Customer Info:
+  Joseph T. Jackson (pyuv)
+  [General]
+  Scheele, Lynne
+  2557 Trails End Road
+  Boca Raton FL 33486 USA
+-------------------------------------------
+Code      Item                                                                      Subtotal        Tax       Total
+cl8a      Movie Ticket 'Joy' @ 3038 Terry Lane                                   $     15.00 $      0.90 $     15.90
+          Sep 3, 2016 1:21 (1 units @ $15.00/unit)
+vazc      ParkingPass cl8a (1 units @ $35.00/unit with 1 free)                   $      0.00 $      0.00 $      0.00
+                                                                                 ====================================
+SUB-TOTALS                                                                       $     15.00 $      0.90 $     15.90
+TOTAL                                                                                                    $     15.90
+
+		Thank you for your purchase!
+
+Invoice INV003
+========================
+Salesperson: Tran, Hung
+Customer Info:
+  Robert A. Hinds (ixf2)
+  [Student]
+  Holloway, Gregory
+  72 Patton Lane
+  Durham NC 27713 USA
+-------------------------------------------
+Code      Item                                                                      Subtotal        Tax       Total
+bcqf      Movie Ticket 'Suicide Squad' @ 2829 Moore Avenue                       $      9.30 $      0.56 $      9.86
+          Aug 25, 2016 2:46 (2 units @ $5.00/unit - Tue/Thu 7% off)
+eshr      Movie Ticket 'Don't Breathe' @ 599 Archwood Avenue                     $     24.18 $      1.45 $     25.63
+          Sep 6, 2016 6:23 (2 units @ $13.00/unit - Tue/Thu 7% off)
+qsln      Large Pepsi (1 units @ $5.00/unit with 5% off)                         $      4.75 $      0.19 $      4.94
+vazc      ParkingPass bcqf (1 units @ $35.00/unit with 1 free)                   $      0.00 $      0.00 $      0.00
+                                                                                 ====================================
+SUB-TOTALS                                                                       $     38.23 $      2.20 $     40.43
+DISCOUNT (8% STUDENT & NO TAX)                                                                           $     -5.26
+ADDITIONAL FEE (STUDENT)                                                                                 $      6.75
+TOTAL                                                                                                    $     41.92
+
+		Thank you for your purchase!
+
+Invoice INV004
+========================
+Salesperson: Romero, Clara
+Customer Info:
+  Johnny R. Smith (62q6)
+  [Student]
+  Koontz, Michael
+  662 Griffin Street
+  Phoenix AZ 85003 USA
+-------------------------------------------
+Code      Item                                                                      Subtotal        Tax       Total
+qyhe      SeasonPass - Labor Day Deal                                            $    228.00 $     13.68 $    241.68
+          (6 units @ $60.00/unit prorated 1/2 days + $8 fee/unit)
+                                                                                 ====================================
+SUB-TOTALS                                                                       $    228.00 $     13.68 $    241.68
+DISCOUNT (8% STUDENT & NO TAX)                                                                           $    -31.92
+ADDITIONAL FEE (STUDENT)                                                                                 $      6.75
+TOTAL                                                                                                    $    216.51
+
+		Thank you for your purchase!
+
+Invoice INV005
+========================
+Salesperson: Scheele, Lynne
+Customer Info:
+  Dean D. Arriola (2f0w)
+  [General]
+  Sanchez, Corinne
+  112 Oak Drive
+  Albany NY 12207 USA
+-------------------------------------------
+Code      Item                                                                      Subtotal        Tax       Total
+avmb      Movie Ticket 'Goosebumps' @ 58 Happy Hollow Road                       $     28.00 $      1.68 $     29.68
+          Sep 16, 2016 20:39 (4 units @ $7.00/unit)
+o5hi      Ice cream (1 units @ $3.00/unit with 5% off)                           $      2.85 $      0.11 $      2.96
+xwj6      ParkingPass avmb (2 units @ $20.00/unit with 2 free)                   $      0.00 $      0.00 $      0.00
+                                                                                 ====================================
+SUB-TOTALS                                                                       $     30.85 $      1.79 $     32.64
+TOTAL                                                                                                    $     32.64
+
+		Thank you for your purchase!
+
+======================================================================================================================
